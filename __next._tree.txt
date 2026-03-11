@@ -1,0 +1,11 @@
+:HL["/agency/_next/static/chunks/4ba60d38734aea9a.css","style"]
+:HL["/agency/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/public/exp1.svg","image"]
+:HL["/public/exp2.svg","image"]
+:HL["/public/exp3.svg","image"]
+:HL["/public/exp4.svg","image"]
+:HL["/public/footer-grid.svg","image"]
+:HL["/public/favicon.svg","image"]
+:HL["/public/git.svg","image"]
+:HL["/public/wha.svg","image"]
+0:{"buildId":"h6FrIVBEBG1til4D0wzJP","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
