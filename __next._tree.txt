@@ -8,4 +8,4 @@
 :HL["/agency/public/favicon.svg","image"]
 :HL["/agency/public/git.svg","image"]
 :HL["/agency/public/wha.svg","image"]
-0:{"buildId":"k6H9QJ4JrlSfMc6c_7HSq","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"pwOIMiqFUp1ZKYLfUF9z8","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
