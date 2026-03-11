@@ -1,0 +1,35 @@
+<svg width="560" height="160" viewBox="0 0 560 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ehStroke" x1="24" y1="20" x2="136" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E4ECFF"/>
+      <stop offset="55%" stop-color="#BEC1DD"/>
+      <stop offset="100%" stop-color="#CBACF9"/>
+    </linearGradient>
+    <linearGradient id="ehAccent" x1="54" y1="38" x2="105" y2="118" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E4ECFF"/>
+      <stop offset="100%" stop-color="#CBACF9"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.796 0 0 0 0 0.675 0 0 0 0 0.976 0 0 0 0.35 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+  </defs>
+  <g transform="translate(18,16)">
+    <rect x="0" y="0" width="128" height="128" rx="32" fill="#000319"/>
+    <rect x="1.5" y="1.5" width="125" height="125" rx="30.5" stroke="url(#ehStroke)" stroke-width="3"/>
+    <circle cx="64" cy="64" r="38" fill="url(#ehAccent)" opacity="0.12" filter="url(#softGlow)"/>
+    <g>
+      <path d="M17 38H55V50H30V59H50V70H30V79H55V91H17V38Z" fill="url(#ehAccent)"/>
+      <circle cx="63" cy="64.5" r="4.5" fill="#CBACF9"/>
+      <path d="M73 38H86V58H98V38H111V91H98V70H86V91H73V38Z" fill="#BEC1DD"/>
+    </g>
+  </g>
+  <g transform="translate(176,36)">
+    <text x="0" y="52" font-family="Inter, Sora, Poppins, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.8" fill="#E4ECFF">E</text>
+    <text x="34" y="52" font-family="Inter, Sora, Poppins, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.8" fill="#CBACF9">&amp;</text>
+    <text x="82" y="52" font-family="Inter, Sora, Poppins, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.8" fill="#E4ECFF">H</text>
+    <text x="137" y="52" font-family="Inter, Sora, Poppins, Arial, sans-serif" font-size="54" font-weight="600" letter-spacing="-1.6" fill="#BEC1DD">Labs</text>
+    <text x="2" y="84" font-family="Inter, Sora, Poppins, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="3.2" fill="#BEC1DD" opacity="0.72">Web &amp; Logiciel</text>
+  </g>
+</svg>

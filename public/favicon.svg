@@ -1,0 +1,29 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="favStroke" x1="18" y1="14" x2="108" y2="112" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E4ECFF"/>
+      <stop offset="55%" stop-color="#BEC1DD"/>
+      <stop offset="100%" stop-color="#CBACF9"/>
+    </linearGradient>
+
+    <linearGradient id="favAccent" x1="36" y1="30" x2="92" y2="96" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E4ECFF"/>
+      <stop offset="100%" stop-color="#CBACF9"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="128" height="128" rx="32" fill="#000319"/>
+  <rect x="1.5" y="1.5" width="125" height="125" rx="30.5" stroke="url(#favStroke)" stroke-width="3"/>
+
+  <!-- monogramme centré -->
+  <g transform="translate(17,38)">
+    <!-- E -->
+    <path d="M0 0H38V12H13V21H33V32H13V41H38V53H0V0Z" fill="url(#favAccent)"/>
+
+    <!-- point -->
+    <circle cx="46" cy="26.5" r="4.5" fill="#CBACF9"/>
+
+    <!-- H -->
+    <path d="M56 0H69V20H81V0H94V53H81V32H69V53H56V0Z" fill="#BEC1DD"/>
+  </g>
+</svg>
